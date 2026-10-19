@@ -2,6 +2,192 @@
  "label": "Anatomia – Módulo 3",
  "children": [
   {
+   "label": "🎯 Prova 3 (30/06/2025) – o que caiu",
+   "note": "Cada ramo = uma questão da prova, com a resposta resumida",
+   "system": "prova3",
+   "children": [
+    {
+     "label": "Q1 · Raiz pulmonar",
+     "figures": [
+      "respiratorio"
+     ],
+     "children": [
+      {
+       "label": "Estruturas que entram/saem do pulmão"
+      },
+      {
+       "label": "Fica no hilo (face mediastinal), envolta pela pleura"
+      },
+      {
+       "label": "Brônquio principal + artéria pulmonar + veias pulmonares"
+      },
+      {
+       "label": "Vasos bronquiais, linfáticos e plexo pulmonar"
+      }
+     ]
+    },
+    {
+     "label": "Q2 · Nasofaringe",
+     "children": [
+      {
+       "label": "Porção puramente respiratória"
+      },
+      {
+       "label": "Óstio faríngeo da tuba auditiva na parede lateral"
+      },
+      {
+       "label": "Comunica com a orelha média → equaliza pressão"
+      },
+      {
+       "label": "Infecção pode causar otite média"
+      }
+     ]
+    },
+    {
+     "label": "Q3 · Ampola hepatopancreática",
+     "figures": [
+      "digestorio"
+     ],
+     "children": [
+      {
+       "label": "Desemboca na papila maior (2ª porção do duodeno)"
+      },
+      {
+       "label": "Colédoco + pancreático principal"
+      },
+      {
+       "label": "Esfíncter de Oddi"
+      }
+     ]
+    },
+    {
+     "label": "Q4 · Peritônio",
+     "children": [
+      {
+       "label": "Peritônio: serosa parietal + visceral"
+      },
+      {
+       "label": "Cavidade peritoneal: espaço virtual com líquido"
+      },
+      {
+       "label": "Retroperitoneal: atrás do peritônio parietal posterior (rins, aorta, pâncreas…)"
+      }
+     ]
+    },
+    {
+     "label": "Q5 · Litíase – onde ficam os cálculos",
+     "figures": [
+      "ed-rim"
+     ],
+     "children": [
+      {
+       "label": "Cálices e pelve renal"
+      },
+      {
+       "label": "Bexiga urinária"
+      },
+      {
+       "label": "Impactam nos estreitamentos do ureter"
+      }
+     ]
+    },
+    {
+     "label": "Q6 · Localização e envoltórios do rim",
+     "figures": [
+      "rim_corte"
+     ],
+     "children": [
+      {
+       "label": "Retroperitoneal, T12–L3; direito mais baixo"
+      },
+      {
+       "label": "Cápsula fibrosa"
+      },
+      {
+       "label": "Gordura perirrenal"
+      },
+      {
+       "label": "Fáscia renal (Gerota)"
+      },
+      {
+       "label": "Gordura pararrenal"
+      }
+     ]
+    },
+    {
+     "label": "Q7 · Trígono vesical",
+     "children": [
+      {
+       "label": "Área triangular lisa no fundo da bexiga"
+      },
+      {
+       "label": "2 óstios ureterais + óstio interno da uretra"
+      },
+      {
+       "label": "Prega interuretérica"
+      }
+     ]
+    },
+    {
+     "label": "Q8 · ITU mais comum na mulher",
+     "children": [
+      {
+       "label": "Uretra curta (~4 cm × ~20 cm)"
+      },
+      {
+       "label": "Óstio próximo à vagina e ao ânus"
+      },
+      {
+       "label": "Relação com a parede anterior da vagina"
+      },
+      {
+       "label": "Sem secreção prostática"
+      }
+     ]
+    },
+    {
+     "label": "Q9 · Útero",
+     "figures": [
+      "utero"
+     ],
+     "children": [
+      {
+       "label": "Divisões: fundo, corpo, istmo, colo"
+      },
+      {
+       "label": "Anterior: bexiga (escavação vesicouterina)"
+      },
+      {
+       "label": "Posterior: reto (Douglas)"
+      },
+      {
+       "label": "Lateral: ligamento largo, tubas, ovários, ureter"
+      }
+     ]
+    },
+    {
+     "label": "Q10/11 · Esquema genital",
+     "figures": [
+      "prova3-genital"
+     ],
+     "children": [
+      {
+       "label": "1 testículo · 2 epidídimo · 3 vesícula seminal · 4 próstata"
+      },
+      {
+       "label": "5 ovário · 6 útero · 7 vagina"
+      },
+      {
+       "label": "ERRADA: 'em 6 ocorre fecundação'"
+      },
+      {
+       "label": "Fecundação = ampola da tuba; útero = implantação"
+      }
+     ]
+    }
+   ]
+  },
+  {
    "label": "Sistema Respiratório",
    "system": "resp",
    "figures": [
@@ -9,22 +195,22 @@
    ],
    "children": [
     {
-     "label": "Nariz e cavidade nasal",
+     "label": "Cavidade nasal (📘 ED)",
      "children": [
       {
-       "label": "Septo: etmoide + vômer + cartilagem"
+       "label": "Anterior: narinas · Posterior: coanas"
       },
       {
-       "label": "Conchas e meatos"
+       "label": "Teto: lâmina cribriforme · Assoalho: palato duro"
       },
       {
-       "label": "Coanas → nasofaringe"
+       "label": "Lateral: conchas e meatos · Medial: septo"
       },
       {
-       "label": "Vibrissas no vestíbulo"
+       "label": "Septo: vômer + lâmina perpendicular do etmoide + CARTILAGEM"
       },
       {
-       "label": "Lâmina cribriforme: olfato"
+       "label": "Epistaxe: área de Kiesselbach"
       }
      ]
     },
@@ -32,30 +218,30 @@
      "label": "Faringe",
      "children": [
       {
-       "label": "Nasofaringe: tuba auditiva, adenoide"
+       "label": "Nasofaringe (só ar) · orofaringe · laringofaringe"
       },
       {
-       "label": "Orofaringe"
+       "label": "Istmo das fauces: boca ↔ orofaringe"
       },
       {
-       "label": "Laringofaringe"
+       "label": "Tuba auditiva na nasofaringe"
       }
      ]
     },
     {
-     "label": "Laringe",
+     "label": "Laringe (📘 ED)",
      "children": [
       {
-       "label": "Tireóidea: pomo de Adão"
+       "label": "Ímpares: tireóidea, cricóidea, epiglote"
       },
       {
-       "label": "Cricóidea: limite inferior"
+       "label": "Pares: aritenóideas, corniculadas, cuneiformes"
       },
       {
-       "label": "Pregas vocais e glote"
+       "label": "Pregas vestibulares: superiores, proteção"
       },
       {
-       "label": "Traqueostomia abaixo da cricóidea"
+       "label": "Pregas vocais: inferiores, fonação"
       }
      ]
     },
@@ -63,36 +249,47 @@
      "label": "Traqueia e brônquios",
      "children": [
       {
-       "label": "Anéis em C"
+       "label": "Carina: bifurcação"
       },
       {
-       "label": "Carina: reflexo da tosse"
+       "label": "Brônquio DIREITO: largo, curto, vertical → corpo estranho"
       },
       {
-       "label": "Brônquio direito: vertical, curto, largo"
+       "label": "Segmentos broncopulmonares: unidade cirúrgica"
       }
      ]
     },
     {
-     "label": "Pulmões e pleura",
+     "label": "Pulmões (📘 ED)",
      "figures": [
       "respiratorio"
      ],
      "children": [
       {
-       "label": "Direito: 3 lobos, 2 fissuras"
+       "label": "Faces: costal, mediastinal, diafragmática"
       },
       {
-       "label": "Esquerdo: 2 lobos, incisura cardíaca"
+       "label": "D: 3 lobos, fissuras oblíqua + horizontal"
       },
       {
-       "label": "Hilo: brônquio posterior, artéria superior, veias inferiores"
+       "label": "E: 2 lobos, oblíqua, incisura cardíaca, língula"
       },
       {
-       "label": "Pleura visceral × parietal"
+       "label": "Relações D: VCS, ázigos, esôfago, VCI"
       },
       {
-       "label": "Pneumotórax × hemotórax"
+       "label": "Relações E: arco da aorta, aorta torácica, coração"
+      }
+     ]
+    },
+    {
+     "label": "Porções",
+     "children": [
+      {
+       "label": "Condutora: nariz → bronquíolos terminais"
+      },
+      {
+       "label": "Respiratória: bronquíolos respiratórios → alvéolos"
       }
      ]
     }
@@ -106,95 +303,109 @@
    ],
    "children": [
     {
-     "label": "Boca",
+     "label": "Esôfago (📘 ED)",
      "children": [
       {
-       "label": "Dentes: 20 decíduos, 32 permanentes"
+       "label": "Cervical, torácico e abdominal"
       },
       {
-       "label": "Papilas: valadas (amargo), filiformes (tato)"
+       "label": "Hiato esofágico (T10)"
       },
       {
-       "label": "Glândulas salivares; parótida (caxumba)"
-      },
-      {
-       "label": "Amilase salivar"
+       "label": "Hérnia de hiato: estômago sobe ao tórax → refluxo pior deitado"
       }
      ]
     },
     {
-     "label": "Faringe e esôfago",
+     "label": "Boca e faringe",
      "children": [
       {
-       "label": "Deglutição: palato mole sobe"
+       "label": "Fenda palatina: falha na fusão dos processos palatinos"
       },
       {
-       "label": "Nervo vago: peristaltismo"
-      },
-      {
-       "label": "Hérnia de hiato e refluxo"
+       "label": "Bebê deitado: tuba curta/horizontal → otite e aspiração"
       }
      ]
     },
     {
-     "label": "Estômago",
+     "label": "Estômago (📘 ED)",
      "children": [
       {
-       "label": "Cárdia, fundo, corpo, piloro"
+       "label": "Cárdia, fundo, corpo, parte pilórica"
       },
       {
-       "label": "Pepsina + HCl: proteínas"
+       "label": "Curv. menor: gástricas E e D"
       },
       {
-       "label": "Omento menor e maior"
+       "label": "Curv. maior: gastromentais D e E"
+      },
+      {
+       "label": "Fundo: gástricas curtas"
       }
      ]
     },
     {
-     "label": "Intestino delgado",
+     "label": "Duodeno e vias biliares (📘 ED)",
      "children": [
       {
-       "label": "Duodeno retroperitoneal; papila maior"
+       "label": "Bulbo duodenal: úlceras"
       },
       {
-       "label": "Jejuno: vasos retos longos"
+       "label": "Colédoco = hepático comum + cístico"
       },
       {
-       "label": "Íleo: arcadas, placas de Peyer"
+       "label": "Papila maior: ampola (colédoco + pancreático principal)"
       },
       {
-       "label": "Mesentérica superior"
+       "label": "Papila menor: pancreático acessório"
+      },
+      {
+       "label": "Delgado: junção gastroduodenal → ileocecal"
       }
      ]
     },
     {
-     "label": "Intestino grosso",
+     "label": "Jejuno × íleo",
      "children": [
       {
-       "label": "Ceco e apêndice"
+       "label": "Jejuno: poucas arcadas, vasos retos longos"
       },
       {
-       "label": "Cólons ascendente, transverso, descendente, sigmoide"
-      },
-      {
-       "label": "Tênias e haustros"
-      },
-      {
-       "label": "Flexuras hepática e esplênica"
+       "label": "Íleo: muitas arcadas, vasos retos curtos"
       }
      ]
     },
     {
-     "label": "Glândulas anexas",
+     "label": "Intestino grosso (📘 ED)",
      "children": [
       {
-       "label": "Fígado: tríade portal, ligamento redondo"
+       "label": "Ceco, cólons, sigmoide, reto, canal anal"
       },
       {
-       "label": "Vias biliares: hepático comum + cístico = colédoco"
+       "label": "Flexuras cólicas direita (hepática) e esquerda (esplênica)"
       },
       {
-       "label": "Pâncreas: exócrino e endócrino"
+       "label": "Tênias convergem no apêndice; apêndices epiploicos = gordura"
+      },
+      {
+       "label": "Apêndice: retrocecal (mais comum); perfuração → peritonite → sepse"
+      },
+      {
+       "label": "Mesoapêndice, mesocolo transverso, mesocolo sigmoide"
+      },
+      {
+       "label": "Volvo: torção sobre o mesentério (sigmoide)"
+      }
+     ]
+    },
+    {
+     "label": "Peritônio (📘 ED + prova)",
+     "children": [
+      {
+       "label": "Intraperitoneais: estômago, jejuno, íleo, transverso, sigmoide"
+      },
+      {
+       "label": "Retroperitoneais: rins, pâncreas, duodeno, ascendente, descendente"
       }
      ]
     }
@@ -205,68 +416,90 @@
    "system": "uri",
    "figures": [
     "urinario",
-    "rim_corte"
+    "ed-rim"
    ],
    "children": [
     {
-     "label": "Rins",
+     "label": "Rim – forma (📘 ED)",
+     "figures": [
+      "ed-rim"
+     ],
      "children": [
       {
-       "label": "T12–L3, retroperitoneais"
+       "label": "2 faces, 2 margens, 2 polos"
       },
       {
-       "label": "Gordura perirrenal; ptose"
+       "label": "Hilo na margem medial; seio renal interno"
       },
       {
-       "label": "Hilo: veia anterior à artéria"
+       "label": "Lobo = pirâmide + córtex"
       },
       {
-       "label": "Renina e eritropoetina"
+       "label": "5 segmentos vasculares"
+      },
+      {
+       "label": "Néfron cortical (alça curta) × justamedular (alça longa)"
       }
      ]
     },
     {
-     "label": "Estrutura interna",
+     "label": "Fixação e ptose (📘 ED)",
+     "children": [
+      {
+       "label": "Fixam: gordura perirrenal, fáscia, gordura pararrenal, pedículo"
+      },
+      {
+       "label": "Ptose: perda de gordura, fáscia frouxa → ureter dobra"
+      }
+     ]
+    },
+    {
+     "label": "Vasos (📘 ED)",
      "figures": [
       "rim_corte"
      ],
      "children": [
       {
-       "label": "Córtex, pirâmides, colunas"
+       "label": "Aorta → renal → segmentares → interlobares → arqueadas → interlobulares → aferente"
       },
       {
-       "label": "Papila → cálice menor → maior → pelve"
-      },
-      {
-       "label": "Circulação terminal: risco de infarto"
-      },
-      {
-       "label": "Sistema porta renal"
+       "label": "Veia renal → VCI; esquerda mais longa (cruza a aorta)"
       }
      ]
     },
     {
-     "label": "Ureter",
+     "label": "Relações (📘 ED)",
      "children": [
       {
-       "label": "3 estreitamentos: cálculos"
+       "label": "Direito: fígado, duodeno, flexura cólica D"
+      },
+      {
+       "label": "Esquerdo: estômago, baço, pâncreas, flexura cólica E, jejuno"
       }
      ]
     },
     {
-     "label": "Bexiga e uretra",
+     "label": "Caminho da urina",
      "children": [
       {
-       "label": "500–700 mL"
+       "label": "Ducto coletor → papila → cálice menor → maior → pelve → ureter → bexiga → uretra"
+      }
+     ]
+    },
+    {
+     "label": "Ureter e bexiga (📘 ED + prova)",
+     "children": [
+      {
+       "label": "Estreitamentos: ureteropélvica, vasos ilíacos, ureterovesical"
+      },
+      {
+       "label": "Bexiga: ápice, corpo, fundo, colo; peritônio só em cima"
       },
       {
        "label": "Trígono vesical"
       },
       {
-       "label": "HPB comprime a uretra"
-      },
-      {
-       "label": "Sonda: desinflar o balão"
+       "label": "Litíase urinária"
       }
      ]
     }
@@ -276,53 +509,21 @@
    "label": "Genital Masculino",
    "system": "masc",
    "figures": [
-    "masculino"
+    "masculino",
+    "prova3-genital"
    ],
    "children": [
     {
-     "label": "Testículos e escroto",
-     "children": [
-      {
-       "label": "Descida no 7º mês"
-      },
-      {
-       "label": "Temperatura 1,5–2 °C menor"
-      },
-      {
-       "label": "Cremáster × dartos"
-      },
-      {
-       "label": "Criptorquidia, hidrocele"
-      }
-     ]
+     "label": "Testículo: gônada"
     },
     {
-     "label": "Vias",
-     "children": [
-      {
-       "label": "Seminíferos → retos → rede → eferentes → epidídimo"
-      },
-      {
-       "label": "Ducto deferente + vesícula = ejaculatório"
-      },
-      {
-       "label": "Funículo espermático"
-      }
-     ]
+     "label": "Epidídimo: armazena e matura"
     },
     {
-     "label": "Glândulas",
-     "children": [
-      {
-       "label": "Vesículas seminais: frutose"
-      },
-      {
-       "label": "Próstata"
-      },
-      {
-       "label": "Bulbouretrais: pré-ejaculatório"
-      }
-     ]
+     "label": "Vesícula seminal e próstata: sêmen"
+    },
+    {
+     "label": "Uretra longa: menos ITU"
     }
    ]
   },
@@ -330,79 +531,24 @@
    "label": "Genital Feminino",
    "system": "fem",
    "figures": [
-    "utero"
+    "utero",
+    "prova3-genital"
    ],
    "children": [
     {
-     "label": "Genitália externa e períneo",
-     "children": [
-      {
-       "label": "Grandes lábios ≈ escroto"
-      },
-      {
-       "label": "Bartholin"
-      },
-      {
-       "label": "Nervo pudendo"
-      },
-      {
-       "label": "Cistocele, retocele"
-      }
-     ]
+     "label": "Ovário: gônada"
     },
     {
-     "label": "Vagina",
-     "children": [
-      {
-       "label": "Fórnix posterior"
-      },
-      {
-       "label": "pH ácido (ácido lático)"
-      }
-     ]
+     "label": "Tuba: fecundação na ampola"
     },
     {
-     "label": "Útero",
-     "figures": [
-      "utero"
-     ],
-     "children": [
-      {
-       "label": "Fundo, corpo, istmo, colo"
-      },
-      {
-       "label": "Endométrio, miométrio, perimétrio"
-      },
-      {
-       "label": "Anteversoflexão"
-      },
-      {
-       "label": "Artéria uterina sobre o ureter"
-      },
-      {
-       "label": "Douglas: útero × reto"
-      }
-     ]
+     "label": "Útero: fundo, corpo, istmo, colo; implantação"
     },
     {
-     "label": "Tubas e ovários",
-     "children": [
-      {
-       "label": "Intramural, istmo, ampola, infundíbulo"
-      },
-      {
-       "label": "Fecundação na ampola"
-      },
-      {
-       "label": "Gravidez ectópica"
-      },
-      {
-       "label": "Lig. suspensor × lig. próprio"
-      },
-      {
-       "label": "Artéria ovariana: aorta"
-      }
-     ]
+     "label": "Vagina: canal do parto"
+    },
+    {
+     "label": "Uretra curta: mais ITU"
     }
    ]
   }

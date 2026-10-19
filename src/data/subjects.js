@@ -3,7 +3,9 @@
 // 2) importe aqui e adicione um item em SUBJECTS.
 // Toda matéria ganha automaticamente: mapa mental, simulado de prova, flashcards, ranking etc.
 import anatomiaQuestions from './anatomia/questions.json';
+import anatomiaProvaQuestions from './anatomia/questions_prova.json';
 import anatomiaAtlas from './anatomia/atlas.json';
+import anatomiaProvaAtlas from './anatomia/atlas_prova.json';
 import anatomiaMindmap from './anatomia/mindmap.json';
 import histologiaQuestions from './histologia/questions.json';
 import histologiaAtlas from './histologia/atlas.json';
@@ -12,19 +14,33 @@ import imunologiaQuestions from './imunologia/questions.json';
 import imunologiaAtlas from './imunologia/atlas.json';
 import imunologiaMindmap from './imunologia/mindmap.json';
 
+// Junta arquivos de questões: temas com o mesmo id são somados; temas novos entram no início.
+function mergeQuestions(base, extra) {
+  const out = base.map((s) => ({ ...s, questions: [...s.questions] }));
+  const fresh = [];
+  for (const s of extra) {
+    const found = out.find((x) => x.id === s.id);
+    if (found) found.questions.push(...s.questions);
+    else fresh.push({ ...s, questions: [...s.questions] });
+  }
+  return [...fresh, ...out];
+}
+
 export const SUBJECTS = [
   {
     id: 'anatomia',
     name: 'Anatomia',
     icon: '🦴',
-    tagline: 'Órgãos, relações anatômicas e prova prática nas peças.',
+    tagline: 'Órgãos, relações anatômicas e prova prática nas peças. Com a Prova 3 e os EDs da monitoria.',
     practice: {
       nav: 'Atlas', icon: '🖼️',
       title: 'Prova prática: identifique a estrutura',
-      text: 'A professora aponta na peça e você responde. Treine com as figuras do Atlas.',
+      text: 'A professora aponta na peça e você responde. Inclui o esquema da Prova 3 e o rim do ED de urinário.',
       mascot: 'Na prova prática a professora aponta e você identifica. Vamos treinar o olho! 👀',
     },
-    questions: anatomiaQuestions, atlas: anatomiaAtlas, mindmap: anatomiaMindmap,
+    questions: mergeQuestions(anatomiaQuestions, anatomiaProvaQuestions),
+    atlas: [...anatomiaProvaAtlas, ...anatomiaAtlas],
+    mindmap: anatomiaMindmap,
   },
   {
     id: 'histologia',

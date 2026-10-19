@@ -1,0 +1,120 @@
+[
+  {
+    "id": "prova3-genital",
+    "title": "Prova 3 – sistemas genitais (questão 10)",
+    "system": "masc",
+    "image": "atlas/prova3_genital.jpg",
+    "builtin": true,
+    "source": "prova",
+    "pins": [
+      {
+        "id": "prova3-genital-1",
+        "label": "Testículo",
+        "x": 29,
+        "y": 38,
+        "explanation": "Nº 1 da prova. Gônada masculina: produz espermatozoides e testosterona."
+      },
+      {
+        "id": "prova3-genital-2",
+        "label": "Epidídimo",
+        "x": 28,
+        "y": 31,
+        "explanation": "Nº 2 da prova. Armazena e matura os espermatozoides (alternativa a correta)."
+      },
+      {
+        "id": "prova3-genital-3",
+        "label": "Vesícula seminal",
+        "x": 55,
+        "y": 15,
+        "explanation": "Nº 3 da prova. Produz a maior parte do líquido seminal (rico em frutose)."
+      },
+      {
+        "id": "prova3-genital-4",
+        "label": "Próstata",
+        "x": 45,
+        "y": 23,
+        "explanation": "Nº 4 da prova. Secreção prostática compõe o sêmen; envolve a uretra prostática."
+      },
+      {
+        "id": "prova3-genital-5",
+        "label": "Ovário",
+        "x": 73,
+        "y": 63,
+        "explanation": "Nº 5 da prova. Gônada feminina (1 e 5 = gônadas)."
+      },
+      {
+        "id": "prova3-genital-6",
+        "label": "Útero",
+        "x": 50,
+        "y": 66,
+        "explanation": "Nº 6 da prova. Local de IMPLANTAÇÃO, não de fecundação — por isso a alternativa d é a errada."
+      },
+      {
+        "id": "prova3-genital-7",
+        "label": "Vagina",
+        "x": 47,
+        "y": 85,
+        "explanation": "Nº 7 da prova. Faz parte do canal do parto."
+      }
+    ]
+  },
+  {
+    "id": "ed-rim",
+    "title": "ED urinário – rim em corte (questão 8)",
+    "system": "uri",
+    "image": "atlas/ed_rim.jpg",
+    "builtin": true,
+    "source": "ed",
+    "pins": [
+      {
+        "id": "ed-rim-1",
+        "label": "Veia renal",
+        "x": 34,
+        "y": 42,
+        "explanation": "Nº 1. Tributária da veia cava inferior; a esquerda é mais longa (cruza a aorta)."
+      },
+      {
+        "id": "ed-rim-2",
+        "label": "Artéria renal",
+        "x": 36,
+        "y": 49,
+        "explanation": "Nº 2. Ramo da parte abdominal da aorta."
+      },
+      {
+        "id": "ed-rim-3",
+        "label": "Pelve renal",
+        "x": 44,
+        "y": 51,
+        "explanation": "Nº 3. Funil que recebe os cálices maiores e continua como ureter."
+      },
+      {
+        "id": "ed-rim-4",
+        "label": "Ureter",
+        "x": 35,
+        "y": 74,
+        "explanation": "Nº 4. Leva a urina à bexiga; tem 3 estreitamentos onde cálculos impactam."
+      },
+      {
+        "id": "ed-rim-5",
+        "label": "Córtex renal",
+        "x": 66,
+        "y": 30,
+        "explanation": "Nº 5. Camada externa do parênquima; contém os corpúsculos renais."
+      },
+      {
+        "id": "ed-rim-6",
+        "label": "Pirâmide renal (medula)",
+        "x": 63,
+        "y": 38,
+        "explanation": "Nº 6. Parte da medula; o ápice é a papila renal."
+      },
+      {
+        "id": "ed-rim-7",
+        "label": "Cálice renal",
+        "x": 55,
+        "y": 64,
+        "explanation": "Nº 7. Cálices menores recebem a urina das papilas e formam os cálices maiores."
+      }
+    ]
+  }
+]

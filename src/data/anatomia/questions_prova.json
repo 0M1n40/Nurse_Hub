@@ -1,0 +1,2052 @@
+[
+  {
+    "id": "prova3",
+    "name": "Prova 3 (30/06/2025)",
+    "icon": "🎯",
+    "questions": [
+      {
+        "id": "anat-mon-prova3-0",
+        "type": "open",
+        "text": "O que é raiz pulmonar? Onde está localizada? Quais estruturas anatômicas fazem parte dela?",
+        "model": "A raiz do pulmão é o conjunto de estruturas que entram e saem do pulmão, ligando-o ao coração e à traqueia. Localiza-se no hilo pulmonar, na face mediastinal do pulmão, envolvida pela bainha pleural (reflexão da pleura, que forma o ligamento pulmonar abaixo). Fazem parte dela: brônquio principal, artéria pulmonar, veias pulmonares (duas), artérias e veias bronquiais, vasos linfáticos e linfonodos broncopulmonares e o plexo nervoso pulmonar.",
+        "keyPoints": [
+          {
+            "label": "Conjunto de estruturas que entram/saem do pulmão",
+            "keywords": [
+              "conjunto",
+              "entram",
+              "saem",
+              "liga"
+            ]
+          },
+          {
+            "label": "No hilo / face mediastinal",
+            "keywords": [
+              "hilo",
+              "mediastinal"
+            ]
+          },
+          {
+            "label": "Brônquio principal",
+            "keywords": [
+              "bronquio"
+            ]
+          },
+          {
+            "label": "Artéria pulmonar",
+            "keywords": [
+              "arteria pulmonar"
+            ]
+          },
+          {
+            "label": "Veias pulmonares",
+            "keywords": [
+              "veia",
+              "veias pulmonares"
+            ]
+          },
+          {
+            "label": "Linfáticos / nervos / vasos bronquiais",
+            "keywords": [
+              "linfat",
+              "nerv",
+              "plexo",
+              "bronquia"
+            ]
+          }
+        ],
+        "source": "prova"
+      },
+      {
+        "id": "anat-mon-prova3-1",
+        "type": "open",
+        "text": "Qual porção da faringe é puramente uma via respiratória? Qual é a sua relação com o aparelho auditivo?",
+        "model": "A nasofaringe (rinofaringe), situada atrás da cavidade nasal (coanas) e acima do palato mole, é exclusivamente respiratória. Na sua parede lateral fica o óstio faríngeo da tuba auditiva (de Eustáquio), contornado pelo toro tubário, que comunica a nasofaringe com a orelha média: equaliza a pressão de ar dos dois lados da membrana timpânica e drena a orelha média. Por isso infecções da nasofaringe podem chegar à orelha média (otite média).",
+        "keyPoints": [
+          {
+            "label": "Nasofaringe",
+            "keywords": [
+              "nasofaringe",
+              "rinofaringe"
+            ]
+          },
+          {
+            "label": "Tuba auditiva",
+            "keywords": [
+              "tuba auditiva",
+              "eustaquio"
+            ]
+          },
+          {
+            "label": "Óstio na parede lateral",
+            "keywords": [
+              "ostio",
+              "parede lateral",
+              "toro"
+            ]
+          },
+          {
+            "label": "Comunica com a orelha média",
+            "keywords": [
+              "orelha media",
+              "ouvido medio",
+              "timpan"
+            ]
+          },
+          {
+            "label": "Equaliza pressão / otite",
+            "keywords": [
+              "pressao",
+              "equaliz",
+              "otite"
+            ]
+          }
+        ],
+        "source": "prova"
+      },
+      {
+        "id": "anat-mon-prova3-2",
+        "type": "mcq",
+        "text": "Complete: a _____ desemboca na segunda porção do duodeno. Ela é formada pela junção dos ductos _____ e _____.",
+        "options": [
+          "Ampola hepatopancreática · colédoco e pancreático principal",
+          "Papila menor · cístico e hepático comum",
+          "Ampola hepatopancreática · cístico e hepático comum",
+          "Vesícula biliar · colédoco e pancreático acessório"
+        ],
+        "answer": 0,
+        "explanation": "A ampola hepatopancreática (de Vater) une o colédoco e o ducto pancreático principal (de Wirsung) e abre-se na papila maior do duodeno, na parte descendente (2ª porção), controlada pelo esfíncter de Oddi.",
+        "source": "prova"
+      },
+      {
+        "id": "anat-mon-prova3-3",
+        "type": "open",
+        "text": "Defina peritônio, cavidade peritoneal e espaço retroperitoneal.",
+        "model": "Peritônio: membrana serosa, contínua e transparente, que reveste as paredes da cavidade abdominopélvica (peritônio parietal) e as vísceras (peritônio visceral). Cavidade peritoneal: espaço virtual entre as lâminas parietal e visceral, com pequena quantidade de líquido seroso que lubrifica e permite o deslizamento das vísceras (fechada no homem; na mulher comunica-se com o exterior pelas tubas, útero e vagina). Espaço retroperitoneal: região entre o peritônio parietal posterior e a parede posterior do abdome, onde ficam rins, ureteres, suprarrenais, aorta, veia cava inferior, pâncreas, maior parte do duodeno e cólons ascendente e descendente.",
+        "keyPoints": [
+          {
+            "label": "Membrana serosa",
+            "keywords": [
+              "serosa",
+              "membrana"
+            ]
+          },
+          {
+            "label": "Parietal e visceral",
+            "keywords": [
+              "parietal",
+              "visceral"
+            ]
+          },
+          {
+            "label": "Cavidade: espaço virtual com líquido",
+            "keywords": [
+              "virtual",
+              "liquido",
+              "espaco entre"
+            ]
+          },
+          {
+            "label": "Retroperitoneal: atrás do peritônio / parede posterior",
+            "keywords": [
+              "atras",
+              "posterior",
+              "parede posterior"
+            ]
+          },
+          {
+            "label": "Exemplos (rins, aorta, pâncreas…)",
+            "keywords": [
+              "rim",
+              "rins",
+              "aorta",
+              "pancreas",
+              "ureter",
+              "cava"
+            ]
+          }
+        ],
+        "source": "prova"
+      },
+      {
+        "id": "anat-mon-prova3-4",
+        "type": "open",
+        "text": "A litíase do trato urinário (cálculos de cálcio, fosfato, oxalato, urato…) ocorre quando a urina fica saturada. Informe dois possíveis locais de armazenamento desses cálculos.",
+        "model": "Os cálculos podem se formar e ficar armazenados nos cálices e na pelve renal (dentro do rim) e na bexiga urinária. Ao descerem, costumam impactar nos estreitamentos do ureter: junção ureteropélvica, cruzamento com os vasos ilíacos e junção ureterovesical, causando cólica renal.",
+        "keyPoints": [
+          {
+            "label": "Pelve renal / cálices (rim)",
+            "keywords": [
+              "pelve",
+              "calice",
+              "rim"
+            ]
+          },
+          {
+            "label": "Bexiga urinária",
+            "keywords": [
+              "bexiga"
+            ]
+          },
+          {
+            "label": "Ureter / estreitamentos (bônus)",
+            "keywords": [
+              "ureter",
+              "estreitamento",
+              "ureteropelv",
+              "ureterovesic"
+            ]
+          }
+        ],
+        "source": "prova"
+      },
+      {
+        "id": "anat-mon-prova3-5",
+        "type": "open",
+        "text": "Cite a localização anatômica dos rins e descreva os envoltórios renais.",
+        "model": "Os rins são retroperitoneais, situados na parede posterior do abdome, um de cada lado da coluna vertebral, aproximadamente entre T12 e L3; o direito fica um pouco mais baixo por causa do fígado. Envoltórios, de dentro para fora: cápsula fibrosa (renal), aderida ao parênquima; cápsula adiposa (gordura perirrenal); fáscia renal (de Gerota), que envolve rim e suprarrenal; e corpo adiposo pararrenal (gordura pararrenal), mais externo.",
+        "keyPoints": [
+          {
+            "label": "Retroperitoneais / parede posterior",
+            "keywords": [
+              "retroperitone",
+              "posterior"
+            ]
+          },
+          {
+            "label": "T12–L3 / direito mais baixo",
+            "keywords": [
+              "t12",
+              "l3",
+              "mais baixo",
+              "figado"
+            ]
+          },
+          {
+            "label": "Cápsula fibrosa",
+            "keywords": [
+              "capsula fibrosa",
+              "fibrosa"
+            ]
+          },
+          {
+            "label": "Gordura perirrenal / cápsula adiposa",
+            "keywords": [
+              "perirrenal",
+              "adiposa"
+            ]
+          },
+          {
+            "label": "Fáscia renal (Gerota) / gordura pararrenal",
+            "keywords": [
+              "fascia",
+              "gerota",
+              "pararrenal"
+            ]
+          }
+        ],
+        "source": "prova"
+      },
+      {
+        "id": "anat-mon-prova3-6",
+        "type": "open",
+        "text": "Defina trígono vesical, informando as estruturas que o compõem.",
+        "model": "É uma área triangular, de mucosa lisa e firmemente aderida à camada muscular (não forma pregas), localizada na face interna do fundo (base) da bexiga. Seus vértices são os dois óstios dos ureteres (posterossuperiores) e o óstio interno da uretra (anteroinferior); entre os óstios ureterais fica a prega interuretérica.",
+        "keyPoints": [
+          {
+            "label": "Área triangular",
+            "keywords": [
+              "triangul"
+            ]
+          },
+          {
+            "label": "Mucosa lisa / sem pregas",
+            "keywords": [
+              "lisa",
+              "sem pregas",
+              "nao forma pregas",
+              "aderid"
+            ]
+          },
+          {
+            "label": "Fundo da bexiga",
+            "keywords": [
+              "fundo",
+              "base",
+              "bexiga"
+            ]
+          },
+          {
+            "label": "Dois óstios ureterais",
+            "keywords": [
+              "ostios dos ureteres",
+              "ostio ureter",
+              "ureteres",
+              "ureter"
+            ]
+          },
+          {
+            "label": "Óstio interno da uretra",
+            "keywords": [
+              "uretra"
+            ]
+          }
+        ],
+        "source": "prova"
+      },
+      {
+        "id": "anat-mon-prova3-7",
+        "type": "open",
+        "text": "Cite três fatores anatômicos que poderiam justificar a maior incidência de infecções do trato urinário inferior no sexo feminino.",
+        "model": "1) A uretra feminina é muito mais curta (cerca de 4 cm, contra cerca de 20 cm no homem) e reta, facilitando a subida de bactérias até a bexiga. 2) O óstio externo da uretra fica no vestíbulo da vagina, muito próximo da vagina e do ânus (períneo curto), regiões colonizadas por bactérias. 3) A uretra tem íntima relação com a parede anterior da vagina, podendo ser traumatizada na relação sexual. Além disso, a mulher não tem a secreção prostática, que tem ação antibacteriana.",
+        "keyPoints": [
+          {
+            "label": "Uretra curta",
+            "keywords": [
+              "curta",
+              "4 cm",
+              "menor"
+            ]
+          },
+          {
+            "label": "Óstio próximo da vagina/ânus",
+            "keywords": [
+              "anus",
+              "vagina",
+              "perineo",
+              "vestibulo",
+              "proxim"
+            ]
+          },
+          {
+            "label": "Relação com a parede anterior da vagina",
+            "keywords": [
+              "parede anterior",
+              "relacao sexual",
+              "coito"
+            ]
+          },
+          {
+            "label": "Ausência de secreção prostática (bônus)",
+            "keywords": [
+              "prostat"
+            ]
+          }
+        ],
+        "source": "prova"
+      },
+      {
+        "id": "anat-mon-prova3-8",
+        "type": "open",
+        "text": "Cite as divisões e as relações anatômicas (pelo menos duas) do útero.",
+        "model": "Divisões: fundo (acima da entrada das tubas), corpo, istmo e colo (cérvice), com porção supravaginal e vaginal. Relações: anteriormente com a bexiga urinária (escavação vesicouterina); posteriormente com o reto (escavação retouterina ou fundo de saco de Douglas); lateralmente com os ligamentos largos, tubas uterinas, ovários e a artéria uterina cruzando por cima do ureter; inferiormente com a vagina.",
+        "keyPoints": [
+          {
+            "label": "Fundo",
+            "keywords": [
+              "fundo"
+            ]
+          },
+          {
+            "label": "Corpo",
+            "keywords": [
+              "corpo"
+            ]
+          },
+          {
+            "label": "Istmo",
+            "keywords": [
+              "istmo"
+            ]
+          },
+          {
+            "label": "Colo / cérvice",
+            "keywords": [
+              "colo",
+              "cervi"
+            ]
+          },
+          {
+            "label": "Relações: bexiga (anterior) e reto (posterior)",
+            "keywords": [
+              "bexiga",
+              "reto",
+              "douglas",
+              "vesicouterina",
+              "retouterina"
+            ]
+          },
+          {
+            "label": "Laterais: ligamento largo / tubas / ureter",
+            "keywords": [
+              "ligamento largo",
+              "tuba",
+              "ureter",
+              "ovario"
+            ]
+          }
+        ],
+        "source": "prova"
+      },
+      {
+        "id": "anat-mon-prova3-9",
+        "type": "mcq",
+        "text": "No esquema da prova (1 testículo, 2 epidídimo, 3 vesícula seminal, 4 próstata, 5 ovário, 6 útero, 7 vagina), qual alternativa está ERRADA?",
+        "options": [
+          "Em 2 há armazenamento de espermatozoides",
+          "3 e 4 produzem secreção para o sêmen",
+          "1 e 5 constituem as gônadas",
+          "Em 6 ocorre fecundação",
+          "7 é constituinte do canal do parto"
+        ],
+        "answer": 3,
+        "explanation": "Questão 11 (justificativa): a fecundação ocorre na TUBA UTERINA (ampola), não no útero (6). No útero ocorre a implantação e o desenvolvimento do embrião. Treine o esquema no Atlas: 'Prova 3 – sistemas genitais'.",
+        "source": "prova"
+      },
+      {
+        "id": "anat-mon-prova3-10",
+        "type": "open",
+        "text": "Justifique o erro da questão 10 da prova (\"Em 6 ocorre fecundação\").",
+        "model": "A estrutura 6 é o útero, onde ocorre a implantação do blastocisto e o desenvolvimento do embrião/feto. A fecundação acontece na tuba uterina, geralmente na ampola, que é a porção mais dilatada da tuba; depois o zigoto é levado ao útero.",
+        "keyPoints": [
+          {
+            "label": "6 é o útero",
+            "keywords": [
+              "utero"
+            ]
+          },
+          {
+            "label": "Fecundação na tuba uterina",
+            "keywords": [
+              "tuba"
+            ]
+          },
+          {
+            "label": "Ampola",
+            "keywords": [
+              "ampola"
+            ]
+          },
+          {
+            "label": "Útero = implantação",
+            "keywords": [
+              "implanta",
+              "desenvolv",
+              "nida"
+            ]
+          }
+        ],
+        "source": "prova"
+      },
+      {
+        "id": "anat-mon-prova3-11",
+        "type": "mcq",
+        "text": "Qual porção da faringe é EXCLUSIVAMENTE respiratória?",
+        "options": [
+          "Nasofaringe",
+          "Orofaringe",
+          "Laringofaringe",
+          "Todas são mistas"
+        ],
+        "answer": 0,
+        "explanation": "Orofaringe e laringofaringe são vias comuns de ar e alimento."
+      },
+      {
+        "id": "anat-mon-prova3-12",
+        "type": "mcq",
+        "text": "O óstio faríngeo da tuba auditiva comunica a nasofaringe com a:",
+        "options": [
+          "Orelha média",
+          "Orelha interna",
+          "Cavidade oral",
+          "Laringe"
+        ],
+        "answer": 0,
+        "explanation": "Equaliza pressões; por isso infecções podem causar otite média."
+      },
+      {
+        "id": "anat-mon-prova3-13",
+        "type": "mcq",
+        "text": "Qual destas estruturas NÃO faz parte da raiz do pulmão?",
+        "options": [
+          "Brônquio principal",
+          "Artéria pulmonar",
+          "Veias pulmonares",
+          "Nervo frênico"
+        ],
+        "answer": 3,
+        "explanation": "O nervo frênico passa ANTERIOR à raiz do pulmão, mas não a compõe."
+      },
+      {
+        "id": "anat-mon-prova3-14",
+        "type": "mcq",
+        "text": "A ampola hepatopancreática desemboca na:",
+        "options": [
+          "Papila maior, na parte descendente (2ª) do duodeno",
+          "Papila menor, na parte superior do duodeno",
+          "Junção duodenojejunal",
+          "Parte horizontal (3ª) do duodeno"
+        ],
+        "answer": 0,
+        "explanation": "A papila menor recebe o ducto pancreático acessório."
+      },
+      {
+        "id": "anat-mon-prova3-15",
+        "type": "mcq",
+        "text": "A cavidade peritoneal é:",
+        "options": [
+          "Um espaço virtual entre as lâminas parietal e visceral, com pouco líquido seroso",
+          "O espaço onde ficam os rins",
+          "Um espaço cheio de gordura",
+          "A cavidade dentro do estômago"
+        ],
+        "answer": 0,
+        "explanation": "Os rins ficam no espaço RETROperitoneal."
+      },
+      {
+        "id": "anat-mon-prova3-16",
+        "type": "mcq",
+        "text": "Qual órgão é RETROPERITONEAL?",
+        "options": [
+          "Estômago",
+          "Jejuno",
+          "Rim",
+          "Cólon transverso"
+        ],
+        "answer": 2,
+        "explanation": "Retroperitoneais: rins, ureteres, suprarrenais, pâncreas, maior parte do duodeno, cólons ascendente e descendente, aorta e VCI."
+      },
+      {
+        "id": "anat-mon-prova3-17",
+        "type": "mcq",
+        "text": "A ordem correta dos envoltórios renais, de DENTRO para FORA, é:",
+        "options": [
+          "Cápsula fibrosa → gordura perirrenal → fáscia renal → gordura pararrenal",
+          "Fáscia renal → cápsula fibrosa → gordura perirrenal → gordura pararrenal",
+          "Gordura pararrenal → fáscia renal → gordura perirrenal → cápsula fibrosa",
+          "Cápsula fibrosa → fáscia renal → gordura perirrenal → gordura pararrenal"
+        ],
+        "answer": 0,
+        "explanation": "A fáscia renal (de Gerota) fica entre as duas camadas de gordura."
+      },
+      {
+        "id": "anat-mon-prova3-18",
+        "type": "mcq",
+        "text": "O trígono vesical é delimitado por:",
+        "options": [
+          "Dois óstios ureterais e o óstio interno da uretra",
+          "Dois óstios ureterais e o ápice da bexiga",
+          "Óstio interno e externo da uretra e o colo",
+          "Ureteres e próstata"
+        ],
+        "answer": 0,
+        "explanation": "Mucosa lisa, sem pregas, mesmo com a bexiga vazia."
+      },
+      {
+        "id": "anat-mon-prova3-19",
+        "type": "mcq",
+        "text": "Qual NÃO justifica a maior incidência de ITU em mulheres?",
+        "options": [
+          "Uretra mais curta",
+          "Óstio externo da uretra próximo à vagina e ao ânus",
+          "Relação da uretra com a parede anterior da vagina",
+          "Uretra mais longa e com três porções"
+        ],
+        "answer": 3,
+        "explanation": "Uretra longa, com porções prostática, membranácea e esponjosa, é a MASCULINA — e protege contra ITU."
+      },
+      {
+        "id": "anat-mon-prova3-20",
+        "type": "mcq",
+        "text": "O fundo de saco de Douglas (escavação retouterina) fica entre:",
+        "options": [
+          "Útero e reto",
+          "Bexiga e útero",
+          "Útero e ovário",
+          "Vagina e uretra"
+        ],
+        "answer": 0,
+        "explanation": "Anteriormente, entre bexiga e útero, fica a escavação vesicouterina."
+      },
+      {
+        "id": "anat-mon-prova3-21",
+        "type": "mcq",
+        "text": "Onde ocorre normalmente a fecundação?",
+        "options": [
+          "Ampola da tuba uterina",
+          "Cavidade uterina",
+          "Ovário",
+          "Colo do útero"
+        ],
+        "answer": 0,
+        "explanation": "Por isso a gravidez ectópica é mais comum na tuba."
+      },
+      {
+        "id": "anat-mon-prova3-22",
+        "type": "mcq",
+        "text": "Qual NÃO é uma divisão do útero?",
+        "options": [
+          "Fundo",
+          "Corpo",
+          "Istmo",
+          "Infundíbulo"
+        ],
+        "answer": 3,
+        "explanation": "Infundíbulo é a porção em funil da TUBA uterina, com as fímbrias."
+      }
+    ]
+  },
+  {
+    "id": "uri",
+    "name": "Sistema Urinário",
+    "icon": "💧",
+    "questions": [
+      {
+        "id": "anat-mon-uri-0",
+        "type": "open",
+        "text": "O que mantém o rim na sua posição anatômica?",
+        "model": "A cápsula adiposa (gordura perirrenal), a fáscia renal (de Gerota) e o corpo adiposo pararrenal, além do pedículo renal (vasos), da pressão intra-abdominal e do apoio das vísceras vizinhas e dos músculos da parede posterior.",
+        "keyPoints": [
+          {
+            "label": "Gordura perirrenal / cápsula adiposa",
+            "keywords": [
+              "perirrenal",
+              "adiposa",
+              "gordura"
+            ]
+          },
+          {
+            "label": "Fáscia renal",
+            "keywords": [
+              "fascia",
+              "gerota"
+            ]
+          },
+          {
+            "label": "Pedículo / vasos",
+            "keywords": [
+              "pediculo",
+              "vaso"
+            ]
+          },
+          {
+            "label": "Pressão / vísceras adjacentes",
+            "keywords": [
+              "pressao",
+              "viscera",
+              "musculo"
+            ]
+          }
+        ],
+        "source": "ed"
+      },
+      {
+        "id": "anat-mon-uri-1",
+        "type": "open",
+        "text": "Descreva o que é ptose renal e quais são as suas causas.",
+        "model": "Ptose renal (nefroptose ou rim flutuante) é a descida anormal do rim, principalmente quando a pessoa fica em pé. Causas: perda rápida da gordura perirrenal (emagrecimento intenso), frouxidão da fáscia renal, multiparidade e biotipo longilíneo/magro, mais comum em mulheres. Pode dobrar o ureter, causando dor e hidronefrose.",
+        "keyPoints": [
+          {
+            "label": "Descida do rim",
+            "keywords": [
+              "desc",
+              "queda",
+              "cai",
+              "rim flutuante",
+              "nefroptose"
+            ]
+          },
+          {
+            "label": "Perda de gordura perirrenal",
+            "keywords": [
+              "gordura",
+              "emagrec",
+              "perirrenal"
+            ]
+          },
+          {
+            "label": "Frouxidão da fáscia",
+            "keywords": [
+              "fascia",
+              "froux"
+            ]
+          },
+          {
+            "label": "Dobra do ureter / hidronefrose (bônus)",
+            "keywords": [
+              "ureter",
+              "hidronefro",
+              "dobra"
+            ]
+          }
+        ],
+        "source": "ed"
+      },
+      {
+        "id": "anat-mon-uri-2",
+        "type": "open",
+        "text": "Defina néfron cortical e néfron justamedular.",
+        "model": "Néfron cortical: o corpúsculo renal fica no córtex externo e a alça de Henle é curta, mal penetrando na medula; é o tipo mais numeroso (~85%). Néfron justamedular: o corpúsculo fica perto da junção córtico-medular e a alça de Henle é longa, mergulhando profundamente na medula; é essencial para concentrar a urina.",
+        "keyPoints": [
+          {
+            "label": "Cortical: corpúsculo no córtex externo",
+            "keywords": [
+              "cortex externo",
+              "externo",
+              "cortical"
+            ]
+          },
+          {
+            "label": "Cortical: alça curta",
+            "keywords": [
+              "curta"
+            ]
+          },
+          {
+            "label": "Justamedular: perto da medula",
+            "keywords": [
+              "junc",
+              "proximo a medula",
+              "justamedular",
+              "limite"
+            ]
+          },
+          {
+            "label": "Justamedular: alça longa / concentra urina",
+            "keywords": [
+              "longa",
+              "concentr"
+            ]
+          }
+        ],
+        "source": "ed"
+      },
+      {
+        "id": "anat-mon-uri-3",
+        "type": "open",
+        "text": "Quais pontos do ureter podem ser facilmente obstruídos por cálculos, e por quê?",
+        "model": "Os três estreitamentos fisiológicos: 1) junção ureteropélvica (saída da pelve renal); 2) cruzamento com os vasos ilíacos (abertura superior da pelve); 3) junção ureterovesical (trajeto intramural, na parede da bexiga — o mais estreito). Nesses pontos o lúmen é menor, então o cálculo fica impactado e causa cólica renal.",
+        "keyPoints": [
+          {
+            "label": "Junção ureteropélvica",
+            "keywords": [
+              "ureteropelv",
+              "pelve renal"
+            ]
+          },
+          {
+            "label": "Cruzamento dos vasos ilíacos",
+            "keywords": [
+              "iliac"
+            ]
+          },
+          {
+            "label": "Junção ureterovesical",
+            "keywords": [
+              "ureterovesic",
+              "bexiga",
+              "intramural"
+            ]
+          },
+          {
+            "label": "Lúmen menor / estreito",
+            "keywords": [
+              "estreit",
+              "lumen",
+              "menor"
+            ]
+          }
+        ],
+        "source": "ed"
+      },
+      {
+        "id": "anat-mon-uri-4",
+        "type": "open",
+        "text": "Cite as porções da bexiga urinária, sua localização anatômica e sua relação com o peritônio.",
+        "model": "Porções: ápice (voltado para a sínfise, com o ligamento umbilical mediano/úraco), corpo, fundo (base, posterior) e colo (onde começa a uretra). Fica na pelve menor, posterior à sínfise púbica; cheia, sobe para o abdome. É extraperitoneal (subperitoneal): o peritônio cobre apenas sua face superior.",
+        "keyPoints": [
+          {
+            "label": "Ápice",
+            "keywords": [
+              "apice"
+            ]
+          },
+          {
+            "label": "Corpo",
+            "keywords": [
+              "corpo"
+            ]
+          },
+          {
+            "label": "Fundo",
+            "keywords": [
+              "fundo",
+              "base"
+            ]
+          },
+          {
+            "label": "Colo",
+            "keywords": [
+              "colo"
+            ]
+          },
+          {
+            "label": "Pelve, atrás da sínfise",
+            "keywords": [
+              "pelve",
+              "sinfise",
+              "pubi"
+            ]
+          },
+          {
+            "label": "Peritônio só na face superior",
+            "keywords": [
+              "superior",
+              "subperitone",
+              "extraperitone",
+              "retroperitone"
+            ]
+          }
+        ],
+        "source": "ed"
+      },
+      {
+        "id": "anat-mon-uri-5",
+        "type": "open",
+        "text": "Defina detalhadamente a irrigação renal.",
+        "model": "Aorta abdominal → artéria renal → artérias segmentares (5, terminais, sem anastomoses) → artérias interlobares (nas colunas renais, entre as pirâmides) → artérias arqueadas (na base das pirâmides, junção córtico-medular) → artérias interlobulares (radiadas corticais) → arteríolas aferentes → glomérulo → arteríolas eferentes → capilares peritubulares e vasos retos. A drenagem faz o caminho inverso (interlobulares → arqueadas → interlobares → veia renal → veia cava inferior), sem veias segmentares.",
+        "keyPoints": [
+          {
+            "label": "Artéria renal (da aorta)",
+            "keywords": [
+              "aorta",
+              "arteria renal"
+            ]
+          },
+          {
+            "label": "Segmentares",
+            "keywords": [
+              "segmentar"
+            ]
+          },
+          {
+            "label": "Interlobares",
+            "keywords": [
+              "interlobar"
+            ]
+          },
+          {
+            "label": "Arqueadas",
+            "keywords": [
+              "arquead"
+            ]
+          },
+          {
+            "label": "Interlobulares / aferente / glomérulo",
+            "keywords": [
+              "interlobular",
+              "aferente",
+              "glomerul"
+            ]
+          },
+          {
+            "label": "Veia renal → VCI",
+            "keywords": [
+              "veia renal",
+              "cava"
+            ]
+          }
+        ],
+        "source": "ed"
+      },
+      {
+        "id": "anat-mon-uri-6",
+        "type": "mcq",
+        "text": "O rim tem ___ faces, ___ margens e ___ polos.",
+        "options": [
+          "2 faces (anterior e posterior), 2 margens (lateral e medial), 2 polos (superior e inferior)",
+          "3 faces, 2 margens, 1 polo",
+          "2 faces, 1 margem, 2 polos",
+          "4 faces, 2 margens, 2 polos"
+        ],
+        "answer": 0,
+        "explanation": "A margem medial é côncava e contém o hilo; a lateral é convexa.",
+        "source": "ed"
+      },
+      {
+        "id": "anat-mon-uri-7",
+        "type": "mcq",
+        "text": "A veia renal é tributária da _____ e a artéria renal é ramo da _____.",
+        "options": [
+          "Veia cava inferior / parte abdominal da aorta",
+          "Veia porta / artéria mesentérica superior",
+          "Veia cava superior / tronco celíaco",
+          "Veia ilíaca / artéria ilíaca comum"
+        ],
+        "answer": 0,
+        "explanation": "",
+        "source": "ed"
+      },
+      {
+        "id": "anat-mon-uri-8",
+        "type": "mcq",
+        "text": "Seio renal é:",
+        "options": [
+          "A cavidade dentro do rim, aberta pelo hilo, com pelve, cálices, vasos e gordura",
+          "O tecido funcional do rim",
+          "A fenda da margem medial",
+          "Uma pirâmide com o córtex que a cobre"
+        ],
+        "answer": 0,
+        "explanation": "Parênquima = tecido funcional; hilo = fenda; lobo = pirâmide + córtex.",
+        "source": "ed"
+      },
+      {
+        "id": "anat-mon-uri-9",
+        "type": "mcq",
+        "text": "Lobo renal corresponde a:",
+        "options": [
+          "Uma pirâmide renal com o córtex que a recobre",
+          "Um segmento vascular",
+          "Um néfron",
+          "A pelve e os cálices"
+        ],
+        "answer": 0,
+        "explanation": "",
+        "source": "ed"
+      },
+      {
+        "id": "anat-mon-uri-10",
+        "type": "mcq",
+        "text": "Pedículo renal é:",
+        "options": [
+          "O conjunto de estruturas que entram e saem pelo hilo (veia, artéria e pelve)",
+          "A cápsula de gordura",
+          "O ápice da pirâmide",
+          "O ureter apenas"
+        ],
+        "answer": 0,
+        "explanation": "De anterior para posterior: veia renal, artéria renal, pelve renal.",
+        "source": "ed"
+      },
+      {
+        "id": "anat-mon-uri-11",
+        "type": "mcq",
+        "text": "Quantos segmentos vasculares tem o rim?",
+        "options": [
+          "5: superior, anterossuperior, anteroinferior, inferior e posterior",
+          "3: superior, médio e inferior",
+          "2: anterior e posterior",
+          "7"
+        ],
+        "answer": 0,
+        "explanation": "Cada um é irrigado por uma artéria segmentar terminal.",
+        "source": "ed"
+      },
+      {
+        "id": "anat-mon-uri-12",
+        "type": "mcq",
+        "text": "Caminho da urina a partir do ducto coletor:",
+        "options": [
+          "Ducto coletor → papila → cálice menor → cálice maior → pelve → ureter → bexiga → uretra",
+          "Ducto coletor → pelve → cálice maior → cálice menor → ureter → bexiga → uretra",
+          "Papila → ducto coletor → pelve → cálice → ureter → uretra → bexiga",
+          "Ducto coletor → ureter → pelve → bexiga → uretra"
+        ],
+        "answer": 0,
+        "explanation": "",
+        "source": "ed"
+      },
+      {
+        "id": "anat-mon-uri-13",
+        "type": "mcq",
+        "text": "Por que a veia renal ESQUERDA é mais longa que a direita?",
+        "options": [
+          "Porque a veia cava inferior fica à direita, e a veia renal esquerda precisa cruzar anteriormente a aorta",
+          "Porque o rim esquerdo é mais baixo",
+          "Porque recebe a veia porta",
+          "Porque passa atrás do pâncreas e do estômago"
+        ],
+        "answer": 0,
+        "explanation": "Ela passa entre a aorta e a artéria mesentérica superior (pode ser comprimida: 'quebra-nozes').",
+        "source": "ed"
+      },
+      {
+        "id": "anat-mon-uri-14",
+        "type": "mcq",
+        "text": "Qual víscera se relaciona com o rim ESQUERDO (e não com o direito)?",
+        "options": [
+          "Baço",
+          "Fígado",
+          "Parte descendente do duodeno",
+          "Flexura cólica direita"
+        ],
+        "answer": 0,
+        "explanation": "Rim direito: fígado, duodeno (parte descendente), flexura cólica direita. Rim esquerdo: estômago, baço, pâncreas, flexura cólica esquerda, jejuno.",
+        "source": "ed"
+      },
+      {
+        "id": "anat-mon-uri-15",
+        "type": "open",
+        "text": "Quais vísceras se relacionam com o rim direito? E com o esquerdo?",
+        "model": "Rim direito: glândula suprarrenal direita, fígado, parte descendente do duodeno e flexura cólica direita (e intestino delgado). Rim esquerdo: suprarrenal esquerda, estômago, baço, pâncreas (cauda), flexura cólica esquerda, cólon descendente e jejuno.",
+        "keyPoints": [
+          {
+            "label": "Direito: fígado",
+            "keywords": [
+              "figado"
+            ]
+          },
+          {
+            "label": "Direito: duodeno",
+            "keywords": [
+              "duodeno"
+            ]
+          },
+          {
+            "label": "Direito: flexura cólica direita",
+            "keywords": [
+              "flexura",
+              "colo",
+              "colon"
+            ]
+          },
+          {
+            "label": "Esquerdo: baço",
+            "keywords": [
+              "baco"
+            ]
+          },
+          {
+            "label": "Esquerdo: estômago / pâncreas",
+            "keywords": [
+              "estomago",
+              "pancreas"
+            ]
+          }
+        ],
+        "source": "ed"
+      },
+      {
+        "id": "anat-mon-uri-16",
+        "type": "open",
+        "text": "Defina parênquima renal, seio renal, lobo renal, hilo renal e pedículo renal.",
+        "model": "Parênquima: tecido funcional do rim (córtex e medula). Seio renal: cavidade interna que se abre pelo hilo e contém pelve, cálices, vasos, nervos e gordura. Lobo renal: uma pirâmide com o córtex que a recobre. Hilo renal: fenda vertical na margem medial por onde passam vasos, nervos e a pelve. Pedículo renal: conjunto dessas estruturas (veia, artéria e pelve renal, de anterior para posterior).",
+        "keyPoints": [
+          {
+            "label": "Parênquima = córtex + medula",
+            "keywords": [
+              "cortex",
+              "medula",
+              "funcional"
+            ]
+          },
+          {
+            "label": "Seio = cavidade com pelve e cálices",
+            "keywords": [
+              "cavidade",
+              "pelve",
+              "calice"
+            ]
+          },
+          {
+            "label": "Lobo = pirâmide + córtex",
+            "keywords": [
+              "piramide"
+            ]
+          },
+          {
+            "label": "Hilo = fenda na margem medial",
+            "keywords": [
+              "fenda",
+              "margem medial"
+            ]
+          },
+          {
+            "label": "Pedículo = estruturas do hilo",
+            "keywords": [
+              "veia",
+              "arteria",
+              "conjunto"
+            ]
+          }
+        ],
+        "source": "ed"
+      },
+      {
+        "id": "anat-mon-uri-17",
+        "type": "open",
+        "text": "O que é litíase urinária?",
+        "model": "É a formação de cálculos (\"pedras\") no trato urinário, a partir de agregados de sais (cálcio, oxalato, fosfato, urato) que precipitam na urina saturada. Podem ficar nos cálices, na pelve renal ou na bexiga e, ao descerem, impactar nos estreitamentos do ureter, causando cólica renal, hematúria e obstrução.",
+        "keyPoints": [
+          {
+            "label": "Formação de cálculos/pedras",
+            "keywords": [
+              "calculo",
+              "pedra"
+            ]
+          },
+          {
+            "label": "Sais (cálcio, oxalato…)",
+            "keywords": [
+              "sal",
+              "sais",
+              "calcio",
+              "oxalato",
+              "urato",
+              "fosfato"
+            ]
+          },
+          {
+            "label": "Locais (rim, ureter, bexiga)",
+            "keywords": [
+              "rim",
+              "ureter",
+              "bexiga",
+              "pelve"
+            ]
+          },
+          {
+            "label": "Cólica / obstrução",
+            "keywords": [
+              "colica",
+              "dor",
+              "obstru"
+            ]
+          }
+        ],
+        "source": "ed"
+      }
+    ]
+  },
+  {
+    "id": "resp",
+    "name": "Sistema Respiratório",
+    "icon": "🫁",
+    "questions": [
+      {
+        "id": "anat-mon-resp-0",
+        "type": "mcq",
+        "text": "Em relação aos pulmões, é correto afirmar que:",
+        "options": [
+          "O pulmão direito possui dois lobos",
+          "O pulmão esquerdo possui duas fissuras",
+          "Ambos os pulmões possuem o mesmo número de lobos",
+          "A língula está presente no pulmão esquerdo"
+        ],
+        "answer": 3,
+        "explanation": "A língula é uma projeção do lobo superior esquerdo, abaixo da incisura cardíaca. Direito: 3 lobos e 2 fissuras; esquerdo: 2 lobos e 1 fissura.",
+        "source": "ed"
+      },
+      {
+        "id": "anat-mon-resp-1",
+        "type": "mcq",
+        "text": "São cartilagens ÍMPARES da laringe:",
+        "options": [
+          "Tireóidea, cricóidea e epiglote",
+          "Aritenóideas, corniculadas e cuneiformes",
+          "Tireóidea, aritenóideas e epiglote",
+          "Cricóidea, corniculadas e cuneiformes"
+        ],
+        "answer": 0,
+        "explanation": "Pares: aritenóideas, corniculadas e cuneiformes.",
+        "source": "ed"
+      },
+      {
+        "id": "anat-mon-resp-2",
+        "type": "mcq",
+        "text": "Quantas faces tem o pulmão?",
+        "options": [
+          "3: costal, mediastinal e diafragmática",
+          "2: anterior e posterior",
+          "4: costal, mediastinal, diafragmática e cervical",
+          "1"
+        ],
+        "answer": 0,
+        "explanation": "Além do ápice (cúpula) e das margens anterior, inferior e posterior.",
+        "source": "ed"
+      },
+      {
+        "id": "anat-mon-resp-3",
+        "type": "mcq",
+        "text": "Verdadeiro ou falso? O istmo das fauces é o local onde a cavidade oral se comunica com a orofaringe.",
+        "options": [
+          "Verdadeira",
+          "Falsa"
+        ],
+        "answer": 0,
+        "explanation": "Verdadeira.",
+        "source": "ed"
+      },
+      {
+        "id": "anat-mon-resp-4",
+        "type": "mcq",
+        "text": "Verdadeiro ou falso? As três porções da faringe são nasofaringe, orofaringe e laringofaringe.",
+        "options": [
+          "Verdadeira",
+          "Falsa"
+        ],
+        "answer": 0,
+        "explanation": "Verdadeira.",
+        "source": "ed"
+      },
+      {
+        "id": "anat-mon-resp-5",
+        "type": "mcq",
+        "text": "Verdadeiro ou falso? O septo nasal forma a parede medial da cavidade nasal e é formado pelos ossos vômer e lâmina perpendicular do etmoide.",
+        "options": [
+          "Verdadeira",
+          "Falsa"
+        ],
+        "answer": 1,
+        "explanation": "Falsa: além desses ossos, a CARTILAGEM DO SEPTO forma a parte anterior do septo.",
+        "source": "ed"
+      },
+      {
+        "id": "anat-mon-resp-6",
+        "type": "mcq",
+        "text": "Verdadeiro ou falso? A incisura cardíaca fica no pulmão direito.",
+        "options": [
+          "Verdadeira",
+          "Falsa"
+        ],
+        "answer": 1,
+        "explanation": "Falsa: fica no pulmão ESQUERDO.",
+        "source": "ed"
+      },
+      {
+        "id": "anat-mon-resp-7",
+        "type": "mcq",
+        "text": "Verdadeiro ou falso? O local onde a traqueia se bifurca nos brônquios principais se chama carina da traqueia.",
+        "options": [
+          "Verdadeira",
+          "Falsa"
+        ],
+        "answer": 0,
+        "explanation": "Verdadeira.",
+        "source": "ed"
+      },
+      {
+        "id": "anat-mon-resp-8",
+        "type": "mcq",
+        "text": "Verdadeiro ou falso? O brônquio principal esquerdo é mais largo, curto e verticalizado.",
+        "options": [
+          "Verdadeira",
+          "Falsa"
+        ],
+        "answer": 1,
+        "explanation": "Falsa: é o DIREITO que é mais largo, curto e vertical.",
+        "source": "ed"
+      },
+      {
+        "id": "anat-mon-resp-9",
+        "type": "mcq",
+        "text": "Epistaxe é:",
+        "options": [
+          "Sangramento nasal",
+          "Perda do olfato",
+          "Inflamação dos seios paranasais",
+          "Obstrução da tuba auditiva"
+        ],
+        "answer": 0,
+        "explanation": "Mais comum na área de Kiesselbach (anteroinferior do septo), rica em anastomoses arteriais.",
+        "source": "ed"
+      },
+      {
+        "id": "anat-mon-resp-10",
+        "type": "mcq",
+        "text": "O assoalho da cavidade nasal é formado pelo:",
+        "options": [
+          "Palato duro",
+          "Lâmina cribriforme",
+          "Vômer",
+          "Osso nasal"
+        ],
+        "answer": 0,
+        "explanation": "Teto: ossos nasal e frontal, lâmina cribriforme do etmoide e esfenoide. Lateral: conchas e meatos. Medial: septo. Anterior: narinas. Posterior: coanas.",
+        "source": "ed"
+      },
+      {
+        "id": "anat-mon-resp-11",
+        "type": "mcq",
+        "text": "Pertencem à PORÇÃO RESPIRATÓRIA:",
+        "options": [
+          "Bronquíolos respiratórios, ductos alveolares, sacos alveolares e alvéolos",
+          "Traqueia e brônquios",
+          "Laringe e faringe",
+          "Bronquíolos terminais e brônquios segmentares"
+        ],
+        "answer": 0,
+        "explanation": "A porção condutora vai da cavidade nasal até os bronquíolos terminais.",
+        "source": "ed"
+      },
+      {
+        "id": "anat-mon-resp-12",
+        "type": "mcq",
+        "text": "As pregas VOCAIS (verdadeiras), em relação às vestibulares, são:",
+        "options": [
+          "Inferiores e responsáveis pela produção do som",
+          "Superiores e só protegem a via aérea",
+          "Iguais em posição e função",
+          "Localizadas na traqueia"
+        ],
+        "answer": 0,
+        "explanation": "As vestibulares (falsas) são superiores e têm função protetora.",
+        "source": "ed"
+      },
+      {
+        "id": "anat-mon-resp-13",
+        "type": "mcq",
+        "text": "Na relação com o pulmão DIREITO (e não com o esquerdo) está a:",
+        "options": [
+          "Veia ázigos",
+          "Arco da aorta",
+          "Aorta torácica",
+          "Artéria subclávia esquerda"
+        ],
+        "answer": 0,
+        "explanation": "Direito: VCS, ázigos, esôfago, VCI, átrio direito. Esquerdo: arco da aorta, aorta torácica, ventrículo esquerdo (incisura cardíaca).",
+        "source": "ed"
+      },
+      {
+        "id": "anat-mon-resp-14",
+        "type": "open",
+        "text": "Quantos lobos e fissuras tem cada pulmão? Cite cada um.",
+        "model": "Pulmão direito: 3 lobos (superior, médio e inferior) e 2 fissuras (oblíqua e horizontal). Pulmão esquerdo: 2 lobos (superior, com a língula, e inferior) e 1 fissura (oblíqua).",
+        "keyPoints": [
+          {
+            "label": "Direito: 3 lobos",
+            "keywords": [
+              "3 lobos",
+              "tres lobos",
+              "medio"
+            ]
+          },
+          {
+            "label": "Direito: oblíqua e horizontal",
+            "keywords": [
+              "horizontal"
+            ]
+          },
+          {
+            "label": "Esquerdo: 2 lobos",
+            "keywords": [
+              "2 lobos",
+              "dois lobos"
+            ]
+          },
+          {
+            "label": "Esquerdo: só oblíqua",
+            "keywords": [
+              "obliqua"
+            ]
+          },
+          {
+            "label": "Língula (bônus)",
+            "keywords": [
+              "lingula"
+            ]
+          }
+        ],
+        "source": "ed"
+      },
+      {
+        "id": "anat-mon-resp-15",
+        "type": "open",
+        "text": "Descreva as estruturas que delimitam a cavidade nasal: anterior, posterior, superior, inferior, lateral e medialmente.",
+        "model": "Anterior: narinas (vestíbulo). Posterior: coanas, que se abrem na nasofaringe. Superior (teto): ossos nasal e frontal, lâmina cribriforme do etmoide e corpo do esfenoide. Inferior (assoalho): palato duro (processo palatino da maxila e lâmina horizontal do palatino). Lateral: conchas nasais superior, média e inferior com os meatos (maxila, etmoide, palatino). Medial: septo nasal.",
+        "keyPoints": [
+          {
+            "label": "Anterior: narinas",
+            "keywords": [
+              "narina"
+            ]
+          },
+          {
+            "label": "Posterior: coanas",
+            "keywords": [
+              "coana"
+            ]
+          },
+          {
+            "label": "Teto: lâmina cribriforme",
+            "keywords": [
+              "cribriforme",
+              "etmoide"
+            ]
+          },
+          {
+            "label": "Assoalho: palato duro",
+            "keywords": [
+              "palato"
+            ]
+          },
+          {
+            "label": "Lateral: conchas",
+            "keywords": [
+              "concha",
+              "meato"
+            ]
+          },
+          {
+            "label": "Medial: septo",
+            "keywords": [
+              "septo"
+            ]
+          }
+        ],
+        "source": "ed"
+      },
+      {
+        "id": "anat-mon-resp-16",
+        "type": "open",
+        "text": "Onde é encontrado o óstio faríngeo da tuba auditiva e qual é a sua função?",
+        "model": "Na parede lateral da nasofaringe, atrás da concha nasal inferior, contornado pelo toro tubário. A tuba comunica a nasofaringe com a orelha média, equaliza a pressão do ar dos dois lados da membrana timpânica e drena secreções.",
+        "keyPoints": [
+          {
+            "label": "Parede lateral da nasofaringe",
+            "keywords": [
+              "nasofaringe",
+              "parede lateral"
+            ]
+          },
+          {
+            "label": "Comunica com a orelha média",
+            "keywords": [
+              "orelha media",
+              "ouvido medio"
+            ]
+          },
+          {
+            "label": "Equaliza a pressão",
+            "keywords": [
+              "pressao",
+              "equaliz"
+            ]
+          }
+        ],
+        "source": "ed"
+      },
+      {
+        "id": "anat-mon-resp-17",
+        "type": "open",
+        "text": "Um paciente aspira um fragmento de alimento. Em qual brônquio ele provavelmente se aloja? Por quê?",
+        "model": "No brônquio principal direito, porque ele é mais curto, mais largo e mais verticalizado, quase continuando a direção da traqueia.",
+        "keyPoints": [
+          {
+            "label": "Brônquio direito",
+            "keywords": [
+              "direito"
+            ]
+          },
+          {
+            "label": "Mais vertical",
+            "keywords": [
+              "vertical"
+            ]
+          },
+          {
+            "label": "Mais curto",
+            "keywords": [
+              "curto"
+            ]
+          },
+          {
+            "label": "Mais largo",
+            "keywords": [
+              "largo",
+              "calibr"
+            ]
+          }
+        ],
+        "source": "ed"
+      },
+      {
+        "id": "anat-mon-resp-18",
+        "type": "open",
+        "text": "Qual é a importância dos segmentos broncopulmonares?",
+        "model": "São unidades anatômicas e funcionais do pulmão, cada uma com seu brônquio segmentar e ramo da artéria pulmonar, separadas por septos de tecido conjuntivo. Por isso um segmento doente pode ser removido cirurgicamente sem prejudicar os vizinhos (segmentectomia); também ajudam a localizar lesões em exames e orientam a drenagem postural.",
+        "keyPoints": [
+          {
+            "label": "Unidade anatômica/funcional",
+            "keywords": [
+              "unidade",
+              "funcional"
+            ]
+          },
+          {
+            "label": "Brônquio segmentar e artéria próprios",
+            "keywords": [
+              "bronquio segmentar",
+              "arteria",
+              "proprio"
+            ]
+          },
+          {
+            "label": "Ressecção cirúrgica isolada",
+            "keywords": [
+              "cirurg",
+              "ressec",
+              "segmentectomia",
+              "remov"
+            ]
+          },
+          {
+            "label": "Localizar lesões / drenagem",
+            "keywords": [
+              "lesao",
+              "localiz",
+              "drenagem"
+            ]
+          }
+        ],
+        "source": "ed"
+      },
+      {
+        "id": "anat-mon-resp-19",
+        "type": "open",
+        "text": "Diferencie as pregas vestibulares das pregas vocais quanto à localização e função.",
+        "model": "As pregas vestibulares (falsas cordas vocais) são superiores e têm função protetora, ajudando a fechar a laringe; não participam diretamente da fonação. As pregas vocais (verdadeiras) são inferiores, delimitam a rima da glote e vibram para produzir o som (fonação).",
+        "keyPoints": [
+          {
+            "label": "Vestibulares: superiores",
+            "keywords": [
+              "superior"
+            ]
+          },
+          {
+            "label": "Vestibulares: proteção",
+            "keywords": [
+              "prote"
+            ]
+          },
+          {
+            "label": "Vocais: inferiores",
+            "keywords": [
+              "inferior"
+            ]
+          },
+          {
+            "label": "Vocais: fonação / som",
+            "keywords": [
+              "fonacao",
+              "som",
+              "voz"
+            ]
+          },
+          {
+            "label": "Glote",
+            "keywords": [
+              "glote"
+            ]
+          }
+        ],
+        "source": "ed"
+      }
+    ]
+  },
+  {
+    "id": "dig",
+    "name": "Sistema Digestório",
+    "icon": "🍽️",
+    "questions": [
+      {
+        "id": "anat-mon-dig-0",
+        "type": "mcq",
+        "text": "As porções anatômicas do esôfago são:",
+        "options": [
+          "Cervical, torácica e abdominal",
+          "Superior, média e inferior",
+          "Cárdia, fundo e corpo",
+          "Faríngea e gástrica"
+        ],
+        "answer": 0,
+        "explanation": "O esôfago conduz o bolo alimentar da faringe ao estômago por peristalse e atravessa o diafragma pelo hiato esofágico.",
+        "source": "ed"
+      },
+      {
+        "id": "anat-mon-dig-1",
+        "type": "mcq",
+        "text": "A papila MENOR do duodeno marca a desembocadura do ducto:",
+        "options": [
+          "Pancreático acessório",
+          "Colédoco",
+          "Cístico",
+          "Hepático comum"
+        ],
+        "answer": 0,
+        "explanation": "A papila maior recebe a ampola hepatopancreática (colédoco + pancreático principal).",
+        "source": "ed"
+      },
+      {
+        "id": "anat-mon-dig-2",
+        "type": "mcq",
+        "text": "O ducto colédoco é formado pelos ductos:",
+        "options": [
+          "Hepático comum e cístico",
+          "Cístico e pancreático principal",
+          "Hepático direito e esquerdo",
+          "Pancreático principal e acessório"
+        ],
+        "answer": 0,
+        "explanation": "",
+        "source": "ed"
+      },
+      {
+        "id": "anat-mon-dig-3",
+        "type": "mcq",
+        "text": "O intestino delgado começa na junção _____, termina na junção _____ e tem as porções _____.",
+        "options": [
+          "Gastroduodenal · ileocecal · duodeno, jejuno e íleo",
+          "Esofagogástrica · retossigmoide · duodeno, jejuno e ceco",
+          "Gastroduodenal · ileocecal · jejuno, íleo e ceco",
+          "Ileocecal · gastroduodenal · duodeno, jejuno e íleo"
+        ],
+        "answer": 0,
+        "explanation": "",
+        "source": "ed"
+      },
+      {
+        "id": "anat-mon-dig-4",
+        "type": "mcq",
+        "text": "Mulher de 62 anos com regurgitação e desconforto torácico após refeições, pior deitada; imagem mostra alteração na passagem do esôfago pelo diafragma. O diagnóstico anatômico é:",
+        "options": [
+          "Hérnia de hiato",
+          "Volvo do sigmoide",
+          "Fenda palatina",
+          "Apendicite"
+        ],
+        "answer": 0,
+        "explanation": "Parte do estômago passa pelo hiato esofágico para o tórax e o mecanismo antirrefluxo falha; deitar facilita o refluxo.",
+        "source": "ed"
+      },
+      {
+        "id": "anat-mon-dig-5",
+        "type": "mcq",
+        "text": "Porções do intestino grosso:",
+        "options": [
+          "Ceco (com apêndice), cólons ascendente, transverso, descendente e sigmoide, reto e canal anal",
+          "Duodeno, jejuno e íleo",
+          "Ceco, íleo e reto",
+          "Cólon ascendente e descendente apenas"
+        ],
+        "answer": 0,
+        "explanation": "",
+        "source": "ed"
+      },
+      {
+        "id": "anat-mon-dig-6",
+        "type": "mcq",
+        "text": "Por que não manter o bebê totalmente deitado após mamar?",
+        "options": [
+          "Tuba auditiva curta e horizontal favorece refluxo de leite para a orelha média, além de regurgitação e aspiração",
+          "Porque o estômago do bebê é vertical",
+          "Para não comprimir o fígado",
+          "Porque prejudica a dentição"
+        ],
+        "answer": 0,
+        "explanation": "",
+        "source": "ed"
+      },
+      {
+        "id": "anat-mon-dig-7",
+        "type": "mcq",
+        "text": "Artérias da CURVATURA MENOR do estômago:",
+        "options": [
+          "Gástricas esquerda e direita",
+          "Gastromentais direita e esquerda",
+          "Gástricas curtas",
+          "Gastroduodenal"
+        ],
+        "answer": 0,
+        "explanation": "Curvatura maior: gastromentais (gastroepiploicas) direita e esquerda. Fundo: gástricas curtas (da esplênica).",
+        "source": "ed"
+      },
+      {
+        "id": "anat-mon-dig-8",
+        "type": "mcq",
+        "text": "O bulbo duodenal:",
+        "options": [
+          "É a porção inicial dilatada da parte superior do duodeno e o local mais comum de úlcera duodenal",
+          "É a papila maior",
+          "Fica na parte horizontal do duodeno",
+          "É retroperitoneal e fixo"
+        ],
+        "answer": 0,
+        "explanation": "Recebe o quimo ácido do estômago; é móvel e intraperitoneal.",
+        "source": "ed"
+      },
+      {
+        "id": "anat-mon-dig-9",
+        "type": "mcq",
+        "text": "Comparando jejuno e íleo:",
+        "options": [
+          "Jejuno: poucas arcadas e vasos retos longos; íleo: muitas arcadas e vasos retos curtos",
+          "Jejuno: muitas arcadas e vasos retos curtos",
+          "Os dois são iguais",
+          "Íleo: vasos retos longos"
+        ],
+        "answer": 0,
+        "explanation": "",
+        "source": "ed"
+      },
+      {
+        "id": "anat-mon-dig-10",
+        "type": "mcq",
+        "text": "Relacione: mesoapêndice, mesocolo transverso e mesocolo sigmoide prendem, respectivamente:",
+        "options": [
+          "Apêndice, cólon transverso e cólon sigmoide",
+          "Ceco, cólon ascendente e reto",
+          "Íleo, cólon transverso e reto",
+          "Apêndice, cólon descendente e sigmoide"
+        ],
+        "answer": 0,
+        "explanation": "",
+        "source": "ed"
+      },
+      {
+        "id": "anat-mon-dig-11",
+        "type": "mcq",
+        "text": "A posição mais comum do apêndice vermiforme é:",
+        "options": [
+          "Retrocecal",
+          "Subcecal",
+          "Pélvica",
+          "Pré-ileal"
+        ],
+        "answer": 0,
+        "explanation": "",
+        "source": "ed"
+      },
+      {
+        "id": "anat-mon-dig-12",
+        "type": "mcq",
+        "text": "As flexuras do intestino grosso são:",
+        "options": [
+          "Cólica direita (hepática) e cólica esquerda (esplênica)",
+          "Duodenojejunal e ileocecal",
+          "Gastroduodenal e esofágica",
+          "Sigmoide e anal"
+        ],
+        "answer": 0,
+        "explanation": "",
+        "source": "ed"
+      },
+      {
+        "id": "anat-mon-dig-13",
+        "type": "mcq",
+        "text": "Seguir as tênias do cólon na cirurgia ajuda a encontrar:",
+        "options": [
+          "A base do apêndice vermiforme",
+          "O piloro",
+          "A papila maior",
+          "O ligamento redondo"
+        ],
+        "answer": 0,
+        "explanation": "As três tênias convergem na base do apêndice.",
+        "source": "ed"
+      },
+      {
+        "id": "anat-mon-dig-14",
+        "type": "mcq",
+        "text": "Volvo intestinal é:",
+        "options": [
+          "Torção de uma alça intestinal sobre o próprio mesentério, com obstrução e isquemia",
+          "Inflamação do apêndice",
+          "Hérnia pelo hiato esofágico",
+          "Falha na fusão do palato"
+        ],
+        "answer": 0,
+        "explanation": "Mais comum no sigmoide, que tem mesocolo longo.",
+        "source": "ed"
+      },
+      {
+        "id": "anat-mon-dig-15",
+        "type": "mcq",
+        "text": "Qual destes é INTRAPERITONEAL?",
+        "options": [
+          "Estômago",
+          "Pâncreas (cabeça)",
+          "Rim",
+          "Cólon ascendente"
+        ],
+        "answer": 0,
+        "explanation": "Intraperitoneais: estômago, jejuno, íleo, cólon transverso, sigmoide, fígado, baço, apêndice.",
+        "source": "ed"
+      },
+      {
+        "id": "anat-mon-dig-16",
+        "type": "open",
+        "text": "Quais são as funções do sistema digestório?",
+        "model": "Ingestão, mastigação, deglutição, digestão mecânica e química dos alimentos, secreção (saliva, suco gástrico, bile, suco pancreático), absorção de nutrientes e água e eliminação dos resíduos (defecação).",
+        "keyPoints": [
+          {
+            "label": "Ingestão / mastigação",
+            "keywords": [
+              "ingest",
+              "mastiga"
+            ]
+          },
+          {
+            "label": "Digestão",
+            "keywords": [
+              "digest"
+            ]
+          },
+          {
+            "label": "Absorção",
+            "keywords": [
+              "absor"
+            ]
+          },
+          {
+            "label": "Eliminação / defecação",
+            "keywords": [
+              "elimina",
+              "defeca",
+              "excre"
+            ]
+          }
+        ],
+        "source": "ed"
+      },
+      {
+        "id": "anat-mon-dig-17",
+        "type": "open",
+        "text": "Comente a anatomia da hérnia de hiato.",
+        "model": "O esôfago atravessa o diafragma pelo hiato esofágico (nível de T10), formado pelo pilar direito do diafragma. Na hérnia de hiato parte do estômago passa para o tórax: por deslizamento (mais comum, a junção esofagogástrica sobe) ou paraesofágica (o fundo sobe ao lado do esôfago). Perde-se o mecanismo antirrefluxo (pilar do diafragma, esfíncter esofágico inferior, ângulo de His), causando refluxo, pior ao deitar.",
+        "keyPoints": [
+          {
+            "label": "Hiato esofágico do diafragma",
+            "keywords": [
+              "hiato",
+              "diafragma"
+            ]
+          },
+          {
+            "label": "Estômago passa ao tórax",
+            "keywords": [
+              "estomago",
+              "torax"
+            ]
+          },
+          {
+            "label": "Deslizamento / paraesofágica",
+            "keywords": [
+              "desliza",
+              "paraesofag"
+            ]
+          },
+          {
+            "label": "Refluxo / mecanismo antirrefluxo",
+            "keywords": [
+              "refluxo",
+              "esfincter"
+            ]
+          }
+        ],
+        "source": "ed"
+      },
+      {
+        "id": "anat-mon-dig-18",
+        "type": "open",
+        "text": "O que é fenda palatina e como ela ocorre?",
+        "model": "É uma malformação congênita em que os processos palatinos não se fundem (entre si e/ou com o palato primário) durante o desenvolvimento embrionário, deixando uma abertura que comunica a cavidade oral com a cavidade nasal. Pode vir associada à fenda labial e dificulta sucção, alimentação e fala, com risco de aspiração e otites.",
+        "keyPoints": [
+          {
+            "label": "Malformação congênita",
+            "keywords": [
+              "congenit",
+              "malforma"
+            ]
+          },
+          {
+            "label": "Falha na fusão dos processos palatinos",
+            "keywords": [
+              "fusao",
+              "fundem",
+              "processo palatino"
+            ]
+          },
+          {
+            "label": "Comunica boca e nariz",
+            "keywords": [
+              "nasal",
+              "nariz",
+              "comunica"
+            ]
+          },
+          {
+            "label": "Dificulta sucção / fala",
+            "keywords": [
+              "sucao",
+              "fala",
+              "alimenta",
+              "aspira"
+            ]
+          }
+        ],
+        "source": "ed"
+      },
+      {
+        "id": "anat-mon-dig-19",
+        "type": "open",
+        "text": "O que é o peritônio e qual sua função? Diferencie órgãos intraperitoneais e retroperitoneais, com exemplos.",
+        "model": "Peritônio é a membrana serosa que reveste a cavidade abdominopélvica (parietal) e as vísceras (visceral). Função: reduzir o atrito, sustentar e fixar órgãos (mesos, omentos, ligamentos), conduzir vasos e nervos e participar da defesa. Intraperitoneais: quase totalmente envolvidos, geralmente com meso (estômago, jejuno, íleo, cólon transverso, sigmoide, fígado, baço). Retroperitoneais: atrás do peritônio, cobertos só na face anterior (rins, ureteres, pâncreas, duodeno, cólons ascendente e descendente, aorta).",
+        "keyPoints": [
+          {
+            "label": "Membrana serosa",
+            "keywords": [
+              "serosa"
+            ]
+          },
+          {
+            "label": "Função: atrito / sustentação",
+            "keywords": [
+              "atrito",
+              "sustent",
+              "fixa",
+              "desliz"
+            ]
+          },
+          {
+            "label": "Intraperitoneal: envolvido / exemplo",
+            "keywords": [
+              "estomago",
+              "jejuno",
+              "baco",
+              "envolvid"
+            ]
+          },
+          {
+            "label": "Retroperitoneal: atrás / exemplo",
+            "keywords": [
+              "rim",
+              "rins",
+              "pancreas",
+              "atras"
+            ]
+          }
+        ],
+        "source": "ed"
+      },
+      {
+        "id": "anat-mon-dig-20",
+        "type": "open",
+        "text": "Quais são as porções do estômago e quais artérias irrigam a curvatura maior, a curvatura menor e o fundo?",
+        "model": "Porções: cárdia, fundo, corpo e parte pilórica (antro, canal e piloro). Curvatura menor: artérias gástricas esquerda (do tronco celíaco) e direita (da hepática). Curvatura maior: artérias gastromentais (gastroepiploicas) direita (da gastroduodenal) e esquerda (da esplênica). Fundo: artérias gástricas curtas (da esplênica).",
+        "keyPoints": [
+          {
+            "label": "Cárdia / fundo / corpo / piloro",
+            "keywords": [
+              "cardia",
+              "piloro",
+              "pilor"
+            ]
+          },
+          {
+            "label": "Curvatura menor: gástricas E e D",
+            "keywords": [
+              "gastrica esquerda",
+              "gastrica direita",
+              "gastricas"
+            ]
+          },
+          {
+            "label": "Curvatura maior: gastromentais",
+            "keywords": [
+              "gastromental",
+              "gastroepiplo"
+            ]
+          },
+          {
+            "label": "Fundo: gástricas curtas",
+            "keywords": [
+              "curtas"
+            ]
+          }
+        ],
+        "source": "ed"
+      },
+      {
+        "id": "anat-mon-dig-21",
+        "type": "open",
+        "text": "Qual é a posição mais comum do apêndice? Por que a posição subcecal pode se relacionar a processos inflamatórios e qual sua relação com a sepse?",
+        "model": "A mais comum é a retrocecal. Na posição subcecal/pélvica o apêndice fica livre, pendente na pelve e em contato com outras vísceras; se for obstruído (fecalito) inflama, e a perfuração derrama conteúdo fecal na cavidade peritoneal, causando abscesso e peritonite. As bactérias e toxinas passam para a circulação e podem levar à sepse; os sintomas atípicos dessa posição podem atrasar o diagnóstico.",
+        "keyPoints": [
+          {
+            "label": "Retrocecal",
+            "keywords": [
+              "retrocecal"
+            ]
+          },
+          {
+            "label": "Obstrução / inflamação",
+            "keywords": [
+              "obstru",
+              "fecalito",
+              "inflama"
+            ]
+          },
+          {
+            "label": "Perfuração / peritonite",
+            "keywords": [
+              "perfur",
+              "peritonit",
+              "abscess"
+            ]
+          },
+          {
+            "label": "Sepse: bactérias na circulação",
+            "keywords": [
+              "sepse",
+              "sangue",
+              "circula",
+              "bacteria"
+            ]
+          }
+        ],
+        "source": "ed"
+      },
+      {
+        "id": "anat-mon-dig-22",
+        "type": "open",
+        "text": "O que são os apêndices epiploicos e as tênias do cólon? Qual a relação das tênias com o apêndice?",
+        "model": "Apêndices epiploicos (omentais) são pequenas projeções de gordura cobertas por peritônio na superfície do cólon. Tênias são três faixas longitudinais de músculo liso (mesocólica, omental e livre); sua contração forma os haustros. As três tênias convergem na base do apêndice vermiforme, o que ajuda a localizá-lo na cirurgia.",
+        "keyPoints": [
+          {
+            "label": "Apêndices epiploicos: gordura",
+            "keywords": [
+              "gordura",
+              "adipos"
+            ]
+          },
+          {
+            "label": "Tênias: faixas de músculo liso",
+            "keywords": [
+              "faixa",
+              "musculo",
+              "longitud"
+            ]
+          },
+          {
+            "label": "Três tênias",
+            "keywords": [
+              "tres",
+              "3"
+            ]
+          },
+          {
+            "label": "Convergem na base do apêndice",
+            "keywords": [
+              "base do apendice",
+              "converg",
+              "apendice"
+            ]
+          }
+        ],
+        "source": "ed"
+      }
+    ]
+  }
+]
